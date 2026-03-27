@@ -1,0 +1,17 @@
+[
+ {
+   "text": "Click Extensions icon",
+   "x": 40,
+   "y": 300
+ },
+ {
+   "text": "Search extension",
+   "x": 400,
+   "y": 120
+ },
+ {
+   "text": "Click Install",
+   "x": 600,
+   "y": 500
+ }
+]
